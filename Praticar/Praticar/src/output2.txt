@@ -1,0 +1,1 @@
+Escola{nome=International House Aveiro, endereco=Rua Domingos Carrancho, 1, 3800-145 Aveiro, testes=[ExameEscrito{versoes=4, consulta=false, prazoCorrecao=0}, ExameEscrito{versoes=1, consulta=false, prazoCorrecao=0}, TesteComputador{link=null}, ProvaOral{lingua=UK}]}
