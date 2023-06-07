@@ -1,0 +1,46 @@
+
+Alínea 1) ----------------------------------
+
+** Could not book rental of GarageStorage unit for client Client.
+
+** Current rentals
+
+- [2023-06-01 - 2023-11-28] Taboeira, Aveiro, 200/day
+- [2023-06-01 - 2023-11-28] Taboeira, Aveiro, 200/day
+- [2023-06-01 - 2023-08-30] Taboeira, Aveiro, 60/day
+- [2023-08-01 - 2023-09-30] Taboeira, Aveiro, 80/day
+
+Alínea 2) ----------------------------------
+
+
+StorageService: Finished reading file.
+
+
+Looking for garage with dimensions 300x400x300
+** No options available for the type, dimensions, and dates requested.
+
+Looking for garage with dimensions 300x400x280
+** No options available for the type, dimensions, and dates requested.
+
+
+
+StorageService: AVAILABLE UNITS BY SIZE
+Taboeira, Aveiro, 200/day
+Taboeira, Aveiro, 200/day
+Taboeira, Aveiro, 120/day
+Taboeira, Aveiro, 60/day
+Taboeira, Aveiro, 80/day
+Taboeira, Aveiro, 90/day
+Aveiro (Estação CP), 10/day
+Aveiro (Estação CP), 20/day
+Aveiro (Estação CP), 10/day
+Aveiro (Estação CP), 20/day
+Aveiro (Estação CP), 10/day
+Aveiro (Estação CP), 20/day
+Aveiro (Estação CP), 10/day
+Aveiro (Estação CP), 20/day
+Aveiro (Estação CP), 10/day
+Aveiro (Estação CP), 20/day
+Aveiro (Estação CP), 10/day
+Aveiro (Estação CP), 20/day
+
