@@ -29,8 +29,5 @@ public abstract class StorageUnit {
     public String toString() {
         return localizacao + ", " + precoDia + "/day";
     }
-
-    // getType. To define the type in extended classes, use the following code:
-    
     
 }
